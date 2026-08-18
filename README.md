@@ -134,6 +134,3 @@ This project was developed as part of the **CodeAlpha Cyber Security Internship*
 **Task:** Secure Coding Review
 
 **Focus:** Python Application Security and Secure Coding Practices
-
-```
-```
